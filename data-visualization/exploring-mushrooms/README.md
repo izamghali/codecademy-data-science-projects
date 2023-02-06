@@ -1,6 +1,6 @@
 Exploring Mushrooms
 
-exploring_mushrooms is one of the off-platform codecademy project where we visualize dataset from [Kaggle](https://www.kaggle.com/uciml/mushroom-classification) as bar chart and pie chart. 
+exploring_mushrooms is one of the off-platform codecademy project where we visualize dataset from [Kaggle](https://www.kaggle.com/uciml/mushroom-classification) as bar chart and pie chart using `matplotlib`, `seaborn`, and `for` loops. 
 
 Here, we're going to:
 1. look over the dataset by inspecting the column using `.head()`, checking the unique value for each column using `.unique()`.
