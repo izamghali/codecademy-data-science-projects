@@ -1,4 +1,4 @@
-Data Visualization
+# Data Visualization
 
 This directory consists of data visualization projects from codecademy
 
